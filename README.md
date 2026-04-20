@@ -29,7 +29,7 @@
 
 1. Clone repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/namlav/Film-app.git
 ```
 
 2. Cài đặt các thư viện cần thiết:
