@@ -94,10 +94,10 @@ Contributions are welcome! Vui lòng:
 3. Commit changes
 4. Push và tạo Pull Request
 
-## 📝 License
+<!-- ## 📝 License
 
 MIT License
-
+-->
 ## 👨‍💻 Tác giả
 
 Nam Lav
