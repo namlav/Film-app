@@ -1,6 +1,6 @@
 # Movie Streaming Application
 
-Ứng dụng xem phim được phát triển bằng Python và tkinter, cho phép người dùng xem, quản lý và tương tác với các bộ phim.
+Ứng dụng crawl phim từ nguồn phim và xem phim được phát triển bằng Python, cho phép người dùng xem, quản lý các bộ phim và người dùng.
 
 ## Tính năng
 
